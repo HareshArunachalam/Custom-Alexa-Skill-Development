@@ -1,0 +1,3 @@
+ControlIntent turn {Options} pin number {Pin}
+ControlIntent turn {Options} pin {Pin}
+ControlIntent turn pin {Pin} {Options}

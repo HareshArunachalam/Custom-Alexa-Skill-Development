@@ -1,0 +1,20 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Options",
+          "type": "List_Of_Options"
+        },
+        {
+          "name": "Pin",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "ControlIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

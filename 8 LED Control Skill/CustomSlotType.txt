@@ -1,0 +1,5 @@
+TYPE: List_Of_Options
+
+VALUES:
+on
+off
