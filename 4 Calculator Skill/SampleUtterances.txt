@@ -1,0 +1,11 @@
+AddIntent What is {NumA} plus {NumB}
+AddIntent What is the sum of {NumA} and {NumB}
+SubIntent What is {NumA} minus {NumB}
+SubIntent What is the difference between {NumA} and {NumB}
+MulIntent What is {NumA} multiplied with {NumB}
+MulIntent What is the product of {NumA} and {NumB}
+DivIntent What is {NumA} divided by {NumB}
+DivIntent What is {NumA} by {NumB}
+PowerIntent What is {NumA} to the power of {NumB}
+PowerIntent What is {NumA} power {NumB}
+PowerIntent What is {NumA} to the power of {NumB} by {NumC}
