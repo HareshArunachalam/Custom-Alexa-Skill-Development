@@ -1,0 +1,3 @@
+WebCamIntent take a picture
+WebCamIntent click a picture
+WebCamIntent take a snapshot
