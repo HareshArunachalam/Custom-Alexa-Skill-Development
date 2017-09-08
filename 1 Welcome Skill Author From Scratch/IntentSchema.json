@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "WelcomeIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+WelcomeIntent say welcome
+WelcomeIntent welcome
+WelcomeIntent welcome everyone
