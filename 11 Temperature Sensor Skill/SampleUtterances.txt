@@ -1,0 +1,2 @@
+TemperatureIntent what is the temperature in {Unit}
+TemperatureIntent what's the temperature in {Unit}
