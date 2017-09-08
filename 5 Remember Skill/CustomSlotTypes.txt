@@ -1,0 +1,17 @@
+TYPE : Things
+
+VALUES:
+keys
+pendrive
+sd card
+wallet
+watch
+
+TYPE : Places
+
+VALUES:
+pocket
+bag
+shelves
+cupboard
+table

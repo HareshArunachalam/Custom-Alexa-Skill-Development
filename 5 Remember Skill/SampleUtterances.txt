@@ -1,0 +1,7 @@
+AddThingsIntent remember my {ThingName} is in my {PlaceName}
+AddThingsIntent remember my {ThingName} are in my {PlaceName}
+AddThingsIntent remember my {ThingName} is on my {PlaceName}
+AddThingsIntent remember my {ThingName} are on my {PlaceName}
+
+TellIntent where is my {ThingName}
+TellIntent where are my {ThingName}

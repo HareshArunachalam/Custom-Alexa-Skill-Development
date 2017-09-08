@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "intent": "AddThingsIntent",
+	  "slots": [
+        {
+          "name": "ThingName",
+          "type": "Things"
+        },
+        {
+          "name": "PlaceName",
+          "type": "Places"
+        }
+      ]
+    },
+    {
+      "intent": "TellIntent",
+	  "slots": [
+        {
+          "name": "ThingName",
+          "type": "Things"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
