@@ -1,0 +1,2 @@
+ServoIntent rotate to {Angle} degrees
+ServoIntent move to {Angle} degrees
