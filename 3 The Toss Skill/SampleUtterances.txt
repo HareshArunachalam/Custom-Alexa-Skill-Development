@@ -1,0 +1,3 @@
+TossIntent toss
+TossIntent toss a coin
+TossIntent flip a coin
