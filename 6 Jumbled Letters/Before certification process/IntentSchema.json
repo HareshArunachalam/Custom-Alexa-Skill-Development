@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Attempt",
+          "type": "LIST_OF_ANSWERS"
+        },
+        {
+          "name": "LetterOne",
+          "type": "Alphabets"
+        },
+        {
+          "name": "LetterTwo",
+          "type": "Alphabets"
+        },
+        {
+          "name": "LetterThree",
+          "type": "Alphabets"
+        },
+        {
+          "name": "LetterFour",
+          "type": "Alphabets"
+        }
+      ],
+      "intent": "AnswerIntent"
+    },
+    {
+      "intent": "DeleteIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

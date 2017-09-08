@@ -1,0 +1,11 @@
+AMAZON.StartOverIntent start
+AMAZON.StartOverIntent start a game
+AMAZON.StartOverIntent start the game
+AMAZON.ResumeIntent resume
+AMAZON.ResumeIntent resume the game
+AnswerIntent my answer is {LetterOne} {LetterTwo} {LetterThree} {LetterFour} {Attempt}
+AnswerIntent is it {LetterOne} {LetterTwo} {LetterThree}      {LetterFour} {Attempt}
+AnswerIntent the word is {LetterOne} {LetterTwo} {LetterThree}   {LetterFour} {Attempt}
+AnswerIntent is the word {LetterOne} {LetterTwo} {LetterThree} {LetterFour} {Attempt}
+DeleteIntent delete my previous data
+DeleteIntent delete everything
