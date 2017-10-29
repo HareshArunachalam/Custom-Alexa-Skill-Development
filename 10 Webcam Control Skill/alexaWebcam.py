@@ -24,7 +24,7 @@ def webcam():
                 else:
                         break
         call(["fswebcam","test" + str(i) + ".jpg"])
-		return question(" A picture was taken ").reprompt("If you want to take more pictures say take $
+		return question(" A picture was taken ").reprompt("If you want to take more pictures say take a picture, or if you wish to quit say, stop")
 
 @ask.intent('AMAZON.StopIntent')
 def stop():
