@@ -1,7 +1,7 @@
 "use strict";
 var Alexa = require('alexa-sdk');
-var arr = [{"Q":"kobo","A":"book"},{"Q":"labl","A":"ball"},{"Q":"eirf","A":"fire"},{"Q":"cgea","A":"cage"},{"Q":"keac","A":"cake"},{"Q":"teda","A":"date"},{"Q":"rodo","A":"door"},{"Q":"maxe","A":"exam"},{"Q":"ixte","A":"exit"},{"Q":"eeys","A":"eyes"},{"Q":"hsif","A":"fish"},{"Q":"lxuf","A":"flux"},{"Q":"deah","A":"head"},{"Q":"lido","A":"idol"},{"Q":"enek","A":"knee"},{"Q":"dnal","A":"land"},{"Q":"pplu","A":"pulp"},{"Q":"oard","A":"road"},{"Q":"toro","A":"root"},{"Q":"wons","A":"snow"},{"Q":"luos","A":"soul"},{"Q":"rtsa","A":"star"},{"Q":"eetr","A":"tree"},{"Q":"netu","A":"tune"},{"Q":"nitw","A":"twin"},{"Q":"erwi","A":"wire"},{"Q":"dniw","A":"wind"},{"Q":"nwya","A":"yawn"},{"Q":"agyo","A":"yoga"},{"Q":"cniz","A":"zinc"}];
-
+var arr = [{"Q":"kobo","A":"book"},{"Q":"labl","A":"ball"},{"Q":"eirf","A":"fire"}];
+           
 exports.handler = function(event,context,callback){
     var alexa = Alexa.handler(event,context,callback);
     alexa.dynamoDBTableName = "JumbledLetters";
